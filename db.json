@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer DELL",
+      "price": "24000",
+      "quantity": 30,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Smart phone",
+      "price": 1200,
+      "quantity": 50,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "TV Sony",
+      "price": "14500",
+      "quantity": 80,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Printer HP",
+      "price": 800,
+      "quantity": 20,
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Xbox",
+      "price": 1500,
+      "quantity": 130,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 6,
+      "name": "TV LG",
+      "price": "7700",
+      "quantity": "45",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
