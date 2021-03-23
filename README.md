@@ -1,4 +1,4 @@
-# Angular11CrudApp
+# Angular11-CRUD-App
 
 Dans cette démo, on traite les points suivants :
 
