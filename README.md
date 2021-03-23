@@ -1,27 +1,13 @@
 # Angular11CrudApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+Dans cette démo, on traite les points suivants :
 
-## Development server
+- Réalisation des opérations de CRUD sur des produits.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Utilisation de "Json-server" pour simuler la partie Back-End de l'application : Le fichier db.json sera utilisé comme une base de données locale pour stocker les produits.
 
-## Code scaffolding
+- Utilisation de Reactive Forms, pour la gestion et la validation des formulaires.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Gestion des états de l’application, selon le type des requêtes envoyées. Trois états possibles : Chargement des données en cours, données chargées et Erreur.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Gestion de la communication entre les composants de l'application via des évènements, on utilisant le gestionnaire d’évènements : EventEmitter
