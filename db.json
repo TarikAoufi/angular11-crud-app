@@ -47,6 +47,14 @@
       "quantity": "45",
       "selected": true,
       "available": true
+    },
+    {
+      "name": "www",
+      "price": 0,
+      "quantity": 0,
+      "selected": true,
+      "available": true,
+      "id": 7
     }
   ]
 }

@@ -23,8 +23,8 @@ export class ProductItemComponent implements OnInit {
   }
 
   onDelete(product:Product) {
-  //this.eventEmitter.emit({type:ProductActionsTypes.DELECTE_PRODUCT, payload:product});
-    this.enventDrivenService.publishEvent({type:ProductActionsTypes.DELECTE_PRODUCT, payload:product});
+  //this.eventEmitter.emit({type:ProductActionsTypes.DELETE_PRODUCT, payload:product});
+    this.enventDrivenService.publishEvent({type:ProductActionsTypes.DELETE_PRODUCT, payload:product});
   }
 
   onEdit(product:Product) {
