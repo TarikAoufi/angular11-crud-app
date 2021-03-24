@@ -6,7 +6,7 @@ Dans cette démo, on traite les points suivants :
 
 - Utilisation de "Json-server", pour simuler la partie Back-End de l'application :  
   
-  Permet d'exposer une API REST sur : https//localhost:3000
+  Permet d'exposer une API REST sur: http://localhost:3000/
   
   Le fichier db.json sera utilisé comme une base de données locale pour stocker les produits.
   
