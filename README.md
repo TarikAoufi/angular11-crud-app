@@ -6,9 +6,9 @@ Dans cette démo, on traite les points suivants :
 
 - Utilisation de "Json-server", pour simuler la partie Back-End de l'application :  
   
-  Permet d'exposer une API REST sur: http://localhost:3000/
+      - Permet d'exposer une API REST sur: http://localhost:3000/
   
-  Le fichier db.json sera utilisé comme une base de données locale pour stocker les produits.
+      - Le fichier db.json sera utilisé comme une base de données locale pour stocker les produits.
   
   
 - Utilisation de Reactive Forms, pour la gestion et la validation des formulaires.
@@ -17,9 +17,9 @@ Dans cette démo, on traite les points suivants :
 
 - Gestion de la communication entre les composants de l'application via :
 
-        - Des évènements, on utilisant le gestionnaire d’évènements : EventEmitter
+       - Des évènements, on utilisant le gestionnaire d’évènements : EventEmitter
 
-        - Un service, dont la solution est sur la branche : event-service
+       - Un service, dont la solution est sur la branche : event-service
 
 Infos:
 
