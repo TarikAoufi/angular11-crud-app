@@ -15,4 +15,14 @@ Dans cette démo, on traite les points suivants :
 
 - Gestion des états de l’application, selon le type des requêtes envoyées. Trois états possibles : Chargement des données en cours, données chargées et Erreur.
 
-- Gestion de la communication entre les composants de l'application via des évènements, on utilisant le gestionnaire d’évènements : EventEmitter
+- Gestion de la communication entre les composants de l'application via :
+
+        - Des évènements, on utilisant le gestionnaire d’évènements : EventEmitter
+
+        - Un service, dont la solution est sur la branche : event-service
+
+Infos:
+
+- On utilise la commande : npm start , pour lancer simultanément 'ng serve' et 'json-server --watch db.json'
+
+- L'application est accessible sur : http://localhost:4200/
