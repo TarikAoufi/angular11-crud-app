@@ -25,4 +25,4 @@ Infos:
 
 - On utilise la commande : npm start , pour lancer simultanément 'ng serve' et 'json-server --watch db.json'
 
-- L'application est accessible sur : http://localhost:4200/
+- L'application est accessible sur : http://localhost:4200/ 
