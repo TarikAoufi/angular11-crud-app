@@ -1,6 +1,6 @@
 # Angular11-CRUD-App
 
-Dans cette démo, on traite les points suivants :
+Dans cette démo, on traite les points suivants : 
 
 - Réalisation des opérations de CRUD sur des produits.
 
